@@ -6,3 +6,5 @@ Several variants are available for the SIM function, including SIM_1S(for one sp
 There are two version of the algorithm - one with projection, where the PDHGMp solution is projected onto the intersection and two where the points are actually minimized on the intersection. The no-projection one is implemented under SIM_NP.
 Finally there are the scripts which run the test images and test them against different versions of SIM and calculate the results. 
 All the numerical results are saved in matrices and the final denoised images are saved in .eps format. All the results can be found on https://drive.google.com/open?id=1r6uJUR0kvdiAbNVRq-ZEt1a_xkcKmede
+
+Edit: the updated functions and scripts are available on the same link because of problem with github. 
